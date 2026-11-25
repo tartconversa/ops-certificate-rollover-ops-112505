@@ -1,0 +1,6 @@
+{"session_set":"g1","group":"legal","entrance":"n1","chain":"old","begin_min":11,"end_notice_min":44,"count":18}
+{"session_set":"g2","group":"assist","entrance":"n1","chain":"old","begin_min":16,"end_notice_min":29,"count":19}
+{"session_set":"g3","group":"legal","entrance":"n2","chain":"old","begin_min":19,"end_notice_min":48,"count":16}
+{"session_set":"g4","group":"assist","entrance":"n3","chain":"new","begin_min":24,"end_notice_min":46,"count":24}
+{"session_set":"g5","group":"media","entrance":"n4","chain":"old","begin_min":33,"end_notice_min":61,"count":19}
+{"session_set":"g6","group":"assist","entrance":"s2","chain":"new","begin_min":27,"end_notice_min":45,"count":18}

@@ -1,0 +1,17 @@
+{"at":22,"kind":"sync","entrance":"n2","group":null,"site":"north","generation":11,"value":"new"}
+{"at":24,"kind":"probe","entrance":"n3","group":"assist","site":"north","generation":11,"value":"new:ok"}
+{"at":25,"kind":"served","entrance":"n2","group":null,"site":"north","generation":11,"value":"new"}
+{"at":27,"kind":"drain","entrance":"n1","group":null,"site":"north","generation":10,"value":null}
+{"at":28,"kind":"probe","entrance":"n2","group":"legal","site":"north","generation":11,"value":"new:failed"}
+{"at":30,"kind":"trust","entrance":null,"group":"legal","site":"north","generation":2,"value":["old","new"]}
+{"at":41,"kind":"probe","entrance":"n2","group":"assist","site":"north","generation":11,"value":"new:ok"}
+{"at":42,"kind":"probe","entrance":"n2","group":"legal","site":"north","generation":11,"value":"new:ok"}
+{"at":43,"kind":"sync","entrance":"n4","group":null,"site":"north","generation":12,"value":"renewed"}
+{"at":46,"kind":"offline","entrance":"n3","group":null,"site":"north","generation":11,"value":null}
+{"at":49,"kind":"served","entrance":"n4","group":null,"site":"north","generation":12,"value":"renewed"}
+{"at":51,"kind":"probe","entrance":"n4","group":"media","site":"north","generation":12,"value":"renewed:failed"}
+{"at":52,"kind":"probe","entrance":"n4","group":"legal","site":"north","generation":10,"value":"old:ok"}
+{"at":57,"kind":"trust","entrance":null,"group":"legal","site":"north","generation":3,"value":["new","renewed"]}
+{"at":58,"kind":"probe","entrance":"n4","group":"legal","site":"north","generation":12,"value":"renewed:ok"}
+{"at":60,"kind":"restore","entrance":"n3","group":null,"site":"north","generation":11,"value":null}
+{"at":61,"kind":"probe","entrance":"n3","group":"assist","site":"north","generation":11,"value":"new:ok"}

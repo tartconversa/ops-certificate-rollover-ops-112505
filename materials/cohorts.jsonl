@@ -1,0 +1,5 @@
+{"group":"assist","site":"north","minimum_reconnect":30,"min_zones":2,"latched_chains":["old","new"],"session_cap_min":26}
+{"group":"assist","site":"south","minimum_reconnect":28,"min_zones":1,"latched_chains":["old","new"],"session_cap_min":26}
+{"group":"legal","site":"north","minimum_reconnect":33,"min_zones":2,"latched_chains":["old"],"session_cap_min":35}
+{"group":"media","site":"north","minimum_reconnect":20,"min_zones":1,"latched_chains":["old","new"],"session_cap_min":30}
+{"group":"media","site":"south","minimum_reconnect":22,"min_zones":1,"latched_chains":["new"],"session_cap_min":30}

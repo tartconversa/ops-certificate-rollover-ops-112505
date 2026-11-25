@@ -1,0 +1,6 @@
+{"entrance":"n1","site":"north","fault_zone":"rack-a","max_sessions":60,"opening_chain":"old","opening_generation":10,"allow_groups":["assist","legal"]}
+{"entrance":"n2","site":"north","fault_zone":"rack-b","max_sessions":56,"opening_chain":"old","opening_generation":10,"allow_groups":["assist","legal"]}
+{"entrance":"n3","site":"north","fault_zone":"rack-c","max_sessions":46,"opening_chain":"new","opening_generation":11,"allow_groups":["assist","media"]}
+{"entrance":"n4","site":"north","fault_zone":"rack-d","max_sessions":37,"opening_chain":"old","opening_generation":10,"allow_groups":["legal","media"]}
+{"entrance":"s1","site":"south","fault_zone":"rack-e","max_sessions":70,"opening_chain":"old","opening_generation":10,"allow_groups":["assist","media"]}
+{"entrance":"s2","site":"south","fault_zone":"rack-f","max_sessions":50,"opening_chain":"new","opening_generation":11,"allow_groups":["assist","media"]}
